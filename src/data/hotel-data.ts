@@ -274,8 +274,8 @@ export const hotels: Hotel[] = [
     location: {
       address: "789 Test Blvd",
       city: "Camden",
-      state: "London",
-      country: "United Kingdom",
+      state: "Texas",
+      country: "United States",
       postalCode: "NW1 8AB",
       coordinates: {
         lat: 51.5349,
