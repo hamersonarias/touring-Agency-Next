@@ -223,8 +223,8 @@ export const hotels: Hotel[] = [
     location: {
       address: "456 Sample Ave",
       city: "Islington",
-      state: "London",
-      country: "United Kingdom",
+      state: "New York",
+      country: "United States",
       postalCode: "N1 2XY",
       coordinates: {
         lat: 51.5294,
